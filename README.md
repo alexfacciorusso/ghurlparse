@@ -1,5 +1,5 @@
 # ghurlparse
-Go library that parses a GitHub URL returning useful informations, like the owner and the user of that repository.
+Go library that parses a GitHub URL returning useful information, like the owner and the user of that repository.
 
 All the parsing is done locally from the URL (the GitHub API is not used).
 
