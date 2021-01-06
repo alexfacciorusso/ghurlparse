@@ -11,6 +11,7 @@ valid, owner, repoName := DestructureRepoURL("https://github.com/alexfacciorusso
 if valid {
     fmt.Printf("Owner: %s, Repository name: %s", owner, repoName)
 }
+// Output: Owner: alexfacciorusso, Repository name: ghurlparse
 ```
 
 ## License
